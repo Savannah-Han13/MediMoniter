@@ -1,4 +1,4 @@
-# MediMonitor, Medical Appointment Scheduler
+# Meditor, Medical Appointment Scheduler
 This project is a medical appointment dashboard designed to record medical appointments. The scheduler is developed using Java and includes a follow-up feature that suggests check-ups based on the type of medical appointment.
 
 ## Features
